@@ -10,7 +10,6 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/matidvo06/dia-2-ej-1-testing/prey"
 	"github.com/stretchr/testify/assert"
 )
 
