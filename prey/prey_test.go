@@ -1,3 +1,9 @@
+/*Se crea un mock para la interfaz Prey llamado mockPrey que devuelve valores
+aleatorios para el método GetSpeed. En el primer caso de prueba, se utiliza
+la implementación dreal de la interfaz Prey, mientras que en el segundo se
+utiliza el mock para verificar que GetSpeed devuelve valores dentro del
+rango esperado.*/
+
 package prey
 
 import (
